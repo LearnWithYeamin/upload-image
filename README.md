@@ -4,7 +4,7 @@
   </a> 
 <h1 align='center'>Upload image into MySql database</h1>
 <h3 align='center'>
-    <a href="https://www.youtube.com/@LearnWithYeamin">Watch the video</a> to learn how to upload image into MySql database in Android Studio using PHP and Volley.
+    <a href="https://www.youtube.com/watch?v=CzOvRGdiO-0">Watch the video</a> to learn how to upload image into MySql database in Android Studio using PHP and Volley.
 </p>
   
 ## Step 1: Request Runtime Storage Permissions: <a href="https://www.youtube.com/watch?v=I3nGvV--2IU">Watch the video</a>
